@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/VPN/static/css/main.7c328cb6.css",
-    "main.js": "/VPN/static/js/main.cc948d90.js",
+    "main.css": "/VPN/static/css/main.55459c8a.css",
+    "main.js": "/VPN/static/js/main.ef93df01.js",
     "static/js/787.761c5e60.chunk.js": "/VPN/static/js/787.761c5e60.chunk.js",
     "static/media/banner.png": "/VPN/static/media/banner.b2b309ae806ade81196e.png",
     "static/media/about.png": "/VPN/static/media/about.f6b6f811a81ba87db620.png",
@@ -11,12 +11,12 @@
     "static/media/review.svg": "/VPN/static/media/review.f2e65ba39f169d56fd9bf131721c623d.svg",
     "index.html": "/VPN/index.html",
     "static/media/check.svg": "/VPN/static/media/check.0fbcd0082626a61cc26a650dacea1cce.svg",
-    "main.7c328cb6.css.map": "/VPN/static/css/main.7c328cb6.css.map",
-    "main.cc948d90.js.map": "/VPN/static/js/main.cc948d90.js.map",
+    "main.55459c8a.css.map": "/VPN/static/css/main.55459c8a.css.map",
+    "main.ef93df01.js.map": "/VPN/static/js/main.ef93df01.js.map",
     "787.761c5e60.chunk.js.map": "/VPN/static/js/787.761c5e60.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c328cb6.css",
-    "static/js/main.cc948d90.js"
+    "static/css/main.55459c8a.css",
+    "static/js/main.ef93df01.js"
   ]
 }
